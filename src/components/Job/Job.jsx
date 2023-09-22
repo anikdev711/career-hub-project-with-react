@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { MdLocationOn } from "react-icons/md";
 import { AiOutlineDollarCircle } from "react-icons/ai";
 import { Link } from "react-router-dom";
